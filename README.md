@@ -1,7 +1,7 @@
 # Credit-card-Fraud-Detection
 
 # Data Set
-You can download the dataset with this <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">link<\a>
+You can download the dataset from this <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">link</a>
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
